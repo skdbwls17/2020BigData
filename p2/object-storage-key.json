@@ -1,0 +1,9 @@
+"apikey": "8dmzpUwjJqkYApdRmupLDjznHWBfHJhwUPYYDOPIajyi"
+
+"access_key_id": "b0b951e1d6544d3082a0c94791449074",
+    "secret_access_key": "059a7f514d925fa1f13cfb34b00d4025046c9a788fd450c7"
+
+"resource_instance_id": "crn:v1:bluemix:public:cloud-object-storage:global:a/9274fa0981c647abab0b94087b565a39:522c4999-35b6-4469-8621-c8609bcb6c99::"
+
+endpoint 
+us-geo : s3.us.cloud-object-storage.appdomain.cloud
